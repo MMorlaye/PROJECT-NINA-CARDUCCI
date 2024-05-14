@@ -33,6 +33,11 @@ body {
 	padding-inline: 10px;
 }
 
+.nav li:hover {
+	background-color: #BEB45A;
+	cursor: pointer;
+}
+
 .nav a {
 	text-decoration: none;
 	color: #000
